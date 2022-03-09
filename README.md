@@ -4,7 +4,7 @@ You need a twilio account:
 
 https://www.twilio.com/
 
-Add an app.py file to the project and create the following variables
+Add a config.py file to the project and create the following variables
 
 ```
 account_sid = "your twilio account sid"
