@@ -1,5 +1,9 @@
 # Sending text messages with python
 
+You need a twilio account:
+
+https://www.twilio.com/
+
 Add an app.py file to the project and create the following variables
 
 ```
